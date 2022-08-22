@@ -1,6 +1,8 @@
 # qtlogin
 A fork of QTStep's SDDM theme to look more like CDE's dtlogin
 
+![qtlogin Screenshot](https://raw.githubusercontent.com/mjdxp/qtlogin/main/qtlogin.png)
+
 Original project: https://github.com/andbgr/QTStep
 
 I wanted a nice looking login manager theme to go with my CDE inspired desktop, but I couldn't find any. So, I decided to modify the one used for QTStep.
