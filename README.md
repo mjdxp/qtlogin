@@ -5,6 +5,8 @@ Original project: https://github.com/andbgr/QTStep
 
 I wanted a nice looking login manager theme to go with my CDE inspired desktop, but I couldn't find any. So, I decided to modify the one used for QTStep.
 
+All credit goes to Andi Berger, aka andbgr, the initial creator of this theme. All I really did was change the text and the font, however I did fix a bug where the password dots went above the input box.
+
 The name is a combination of "dtlogin," the name of CDE's login manager, and QTStep.
 
 To install, copy a directory containing this repo's files to SDDM's theme directory (likely `/usr/share/sddm/themes`), then change the "Current=" line in your sddm.conf file (located at `/etc/sddm.conf` on my system)
