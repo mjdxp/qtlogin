@@ -1,0 +1,14 @@
+[SddmGreeterTheme]
+Name=qtlogin
+Description=A fork of QTStep's SDDM theme to look more like dtlogin
+Author=mjdxp
+License=GPLv3
+Type=sddm-theme
+Version=0.1
+Website=
+Screenshot=preview.png
+MainScript=main.qml
+ConfigFile=theme.conf
+Email=
+Theme-Id=qtlogin
+Theme-API=2.0
